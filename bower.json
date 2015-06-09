@@ -1,7 +1,7 @@
 {
   "name": "ng-keypad",
   "version": "0.0.0",
-  "homepage": "https://github.com/ArtOfContext/ng-keypad"
+  "homepage": "https://github.com/ArtOfContext/ng-keypad",
   "main": [
     "src/ngKeypad/ngKey.js",
     "src/ngKeypad/ngKeypadInput.js",
